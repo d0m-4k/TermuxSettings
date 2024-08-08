@@ -1,4 +1,4 @@
 # TermuxSettings
 ```
-curl https://github.com/d0m-4k/TermuxSettings/raw/main/install.sh | sh
+bash <(curl -s https://raw.githubusercontent.com/d0m-4k/TermuxSettings/main/install.sh)
 ```
